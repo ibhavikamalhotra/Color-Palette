@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+table{
+margin: 0 auto;
+
+}
+
+td{
+    padding: 30px !important;
+    font-family: 'Montserrat', sans-serif;
+}
+td{
+    height: 50px;
+    width: 250px;
+    text-align: center;
+}
